@@ -1,12 +1,13 @@
 <h1 style="font-weight:bold;" align="center">Hi I'm Luis</h1>
 
-<h3 align="center">🙏 JS/PHP Developer 🙏</h3>
+<h3 align="center"> C and C++ Developer</h3>
 
 ## About me:
 
-- I'm from Mexico and I'm 30 years old.
+- I'm from Mexico and I'm 18 years old.
 - I learned how to program in a short amount of time thanks to my skills in other areas.
 - I'm learning how to make good solutions for complex problems.
+
 
 ## Social Networks
 
@@ -16,7 +17,6 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23064511/unbittenkitten)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/UnBittenKitten_)
 
-<img width="100" src="https://media1.tenor.com/m/Yfem5pfa7wIAAAAC/cat-car.gif">
 
 ## Technologies I Know
 
@@ -28,10 +28,7 @@
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
 
-<img width="100" src="https://media1.tenor.com/m/Yfem5pfa7wIAAAAC/cat-car.gif">
-
 ## Technologies I'm Learning
-
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -46,7 +43,6 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-<img width="100" src="https://media1.tenor.com/m/Yfem5pfa7wIAAAAC/cat-car.gif">
 
 ## GitHub Statistics
 
@@ -54,7 +50,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=UnBittenKitten&theme=tokyonight&hide_border=true"><br />
 </div>
 
----
+___
 
 <div align="center">
     <img width="100" src="https://media1.tenor.com/m/Yfem5pfa7wIAAAAC/cat-car.gif">
