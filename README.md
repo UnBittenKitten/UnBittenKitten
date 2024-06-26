@@ -4,7 +4,7 @@
 
 ## About me:
 
-- I'm from Mexico and I'm 18 years old.
+- I'm from Mexico and I'm 19 years old.
 - I learned how to program in a short amount of time thanks to my skills in other areas.
 - I'm learning how to make good solutions for complex problems.
 
